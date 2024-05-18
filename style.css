@@ -1,0 +1,100 @@
+.kat{
+    text-align: center;
+    font-size: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+/* je suis toujours concentré sur mon travail et le restene m'importe peu
+parce que ma vie est plus umporatant que tous*/
+.jus{
+    background-image: url(deka.jpeg);
+    background-repeat: no-repeat;
+    color: green;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color:red;
+}
+img{
+    margin: 1px;
+    width: 400px;
+    padding: 1px;
+    border: 2px solid green;
+    opacity: 9;
+}
+.container{
+    max-width: 600px;;
+    padding: 20px;
+    background: rgb(0, 0, 0, 0.5);
+    border-radius: 10px;
+    margin: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(135deg, #000eff, #00aaff);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    border: 2px red solid;
+    width: 40%;
+}
+nav a{
+    color: #ffffff;
+    text-decoration: none;
+}
+nav a:hover{
+    text-decoration: underline;
+}
+h1{
+    margin-top: 10px;
+    font-size: 30px;""
+}
+.sos{
+    float: right;
+    margin-left: 0px;
+}
+h1, h2, h3{
+    color: blue;
+}
+.ket{
+    text-align: center;
+    font-size: xx-large;
+    border:1px solid red;
+    color: white;
+    background-color:blue;
+}
+form{
+    color: blue;
+}
+.am{
+    text-align: right;
+    font-size: xx-large;
+    color: white;
+    max-width: 600px;;
+    padding: 20px;
+    background: rgb(0, 0, 0, 0.5);
+    border-radius: 10px;
+    margin: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(135deg, #000eff, #00aaff);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    border: 2px red solid;
+    width: 40%; 
+}
+.x{
+    font-size: 170px;
+    color: green;
+    opacity: 9;
+background: #00aaff;
+}
+.he{
+    background-color: #00aaff;
+    width: 300px;
+}
